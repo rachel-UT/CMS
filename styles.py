@@ -4,6 +4,7 @@ Created on Fri Feb 17 15:59:06 2023
 
 @author: hzhang
 """
+# We can change our color here!
 
 # color theme
 COLOR_THEME = {'light': '#757ce8','main': '#3f50b5',
